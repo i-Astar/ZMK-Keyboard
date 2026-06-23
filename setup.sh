@@ -103,5 +103,4 @@ echo ""
 echo "固件自动保存到: $SCRIPT_DIR/键盘名/键盘名.uf2"
 echo "=========================================="
 EOF
-
 chmod +x /workspaces/ZMK-Keyboard/setup.sh
