@@ -1,6 +1,6 @@
 #!/bin/bash
-# 用法: bash setup.sh
-# 功能: Github Codesp一键配置 ZMK 编译环境（克隆源码 + 安装工具链 + 设置快捷命令）
+# 用法: 在Github Codespace终端运行 bash setup.sh （安装过程中有问题咨询ai）
+# 功能: 一键配置 ZMK 编译环境（克隆源码 + 安装工具链 + 设置快捷命令）
 
 set -e
 
